@@ -12,6 +12,7 @@ client.user.setPresence({
      details: `I'm Fine💔`,
      state: 'لَقَدْ تَعِبْتُ مِنْ مُقَآوَمَةِ هَذَآ آلْعَآلَمِ بِمَآ يَكْفِيٓ', 
     application_id: '625803435496833046',
+        url: 'https://m.twitch.tv/iimetoda/',
         smallImageKey: 'sad',
         smallImageText: 'why',
         LargeImageKey: 'happy',
