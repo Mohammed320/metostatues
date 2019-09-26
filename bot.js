@@ -8,7 +8,7 @@ client.user.setPresence({
  game: { 
      type: 0,
      name: 'Abo 7med🖤',
-     streamurl:'https://twitch.tv/iimetoda',
+     url:'https://twitch.tv/iimetoda',
      details: `I'm Fine💔`,
      state: 'لَقَدْ تَعِبْتُ مِنْ مُقَآوَمَةِ هَذَآ آلْعَآلَمِ بِمَآ يَكْفِيٓ', 
     application_id: '625803435496833046', 
