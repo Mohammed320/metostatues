@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 
 client.on("ready", () => {
-client.user.setGame({
+client.user.setActivity({
   status: 'dnd',
  game: { 
      type: 0,
