@@ -5,9 +5,9 @@ const client = new Discord.Client();
 
 client.on("ready", () => {
 client.user.setPresence({
-     status: 'dnd',
+     status: 'streaming',
   game: { 
-     type: Streaming,
+     type: 0,
      name: 'Abo 7med🖤',
      url:'https://twitch.tv/iimetoda',
      details: `I'm Fine💔`,
