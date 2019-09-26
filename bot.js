@@ -5,7 +5,6 @@ const client = new Discord.Client();
 
 client.on("ready", () => {
 client.user.setPresence({
-  status: 'dnd',
  game: { 
      type: 0,
      name: 'Abo 7med🖤',
