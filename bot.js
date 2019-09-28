@@ -10,14 +10,14 @@ client.user.setPresence({
      type: 0,
      name: 'Abo 7med🖤',
      url:'https://twitch.tv/iimetoda',
-     details: `I'm Fine💔`,
-     state: 'لَقَدْ تَعِبْتُ مِنْ مُقَآوَمَةِ هَذَآ آلْعَآلَمِ بِمَآ يَكْفِيٓ', 
+     details: `I'm Fine,I Guess💔`,
+     state: 'آلْحَيَآةُ قَضِيَّةٌ بَآئِسَةٌ قَرَّرْتُ أَنْ أَقْضَيٓهَآ مُحَآوِلَاً فِهْمَآ', 
     application_id: '625803435496833046', 
         smallImageKey: 'sad',
         smallImageText: 'why',
         LargeImageKey: 'happy',
         LargeImageText: 'dont leave me', 
-        instance:false, 
+        instance:true, 
    }
     });
 });
