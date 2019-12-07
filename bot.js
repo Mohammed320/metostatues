@@ -8,7 +8,7 @@ client.user.setPresence({
      status: 'dnd',
   game: { 
      type: 0,
-     name: 'Abo 7med🖤',
+     name: 'Abo 7med✨',
      url:'https://twitch.tv/iimetoda',
      details: `Silence Is The Most Powerful Scream`,
      state: 'آلْحَيَآةُ قَضِيَّةٌ بَآئِسَةٌ قَرَّرْتُ أَنْ أَقْضَيٓهَآ مُحَآوِلَاً فِهْمَهَآ', 
